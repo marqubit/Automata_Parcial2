@@ -1,0 +1,16 @@
+C:\Users\bodega\Documents\Visual Studio 2010\Projects\AutomataServidor\AutomataServidor\bin\Debug\AutomataServidor.exe
+C:\Users\bodega\Documents\Visual Studio 2010\Projects\AutomataServidor\AutomataServidor\bin\Debug\AutomataServidor.pdb
+C:\Users\bodega\Documents\Visual Studio 2010\Projects\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.csprojResolveAssemblyReference.cache
+C:\Users\bodega\Documents\Visual Studio 2010\Projects\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.Form1.resources
+C:\Users\bodega\Documents\Visual Studio 2010\Projects\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.Properties.Resources.resources
+C:\Users\bodega\Documents\Visual Studio 2010\Projects\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.csproj.GenerateResource.Cache
+C:\Users\bodega\Documents\Visual Studio 2010\Projects\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.exe
+C:\Users\bodega\Documents\Visual Studio 2010\Projects\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.pdb
+C:\Users\MarQubit\Downloads\Automata_v1.2\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.exe
+C:\Users\MarQubit\Downloads\Automata_v1.2\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.pdb
+C:\Users\MarQubit\Downloads\Automata_v1.2\AutomataServidor\AutomataServidor\bin\Debug\AutomataServidor.exe
+C:\Users\MarQubit\Downloads\Automata_v1.2\AutomataServidor\AutomataServidor\bin\Debug\AutomataServidor.pdb
+C:\Users\MarQubit\Downloads\Automata_v1.2\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.csprojResolveAssemblyReference.cache
+C:\Users\MarQubit\Downloads\Automata_v1.2\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.Form1.resources
+C:\Users\MarQubit\Downloads\Automata_v1.2\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.Properties.Resources.resources
+C:\Users\MarQubit\Downloads\Automata_v1.2\AutomataServidor\AutomataServidor\obj\Debug\AutomataServidor.csproj.GenerateResource.Cache
